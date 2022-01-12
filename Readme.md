@@ -15,7 +15,7 @@ For next steps, you will need prointerface or Octoprint to send few GCode to KP3
 1. Load the updated robin_nano_cfg.txt to KP3S after that.
 
 
-For example, if the G30 reported value of 4.1, the final offset will be as below:
+For example, if the G30 reported value of 3.51, the final offset will be as below:
 ```
 >Z_PROBE_OFFSET_FROM_EXTRUDER	-3.61	# Z Æ«ÒÆ: -below +above  [the nozzle]		
 >X_PROBE_OFFSET_FROM_EXTRUDER	31.0	# X Æ«ÒÆ: -left  +right  [of the nozzle]
